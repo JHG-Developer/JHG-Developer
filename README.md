@@ -1,10 +1,11 @@
+<!--
 - 👋 Hi, I’m @JHG-Developer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
 
-<!---
 JHG-Developer/JHG-Developer is dedicated coding repository for all JHG Developed applications.
 Conact IT  on +61 8 9415 0000 for any information.
---->
+
